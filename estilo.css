@@ -1,0 +1,33 @@
+.banner{
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 356px;
+    height: 169px;
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    width: 353px;
+    height: 80px;
+}
+.texto{
+    text-align: center;
+    margin: 0;
+}
+.cadastrar{
+    font-size: 18px;
+    text-align: center;
+    width: 300px;
+    margin: 0;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.home{
+    text-align: center;
+    margin: 0;
+    width: 353px;
+    height: 80px;
+}
